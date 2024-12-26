@@ -2,14 +2,14 @@
 👋 **Hi there!**  
 I’m **Tingmei Huang**, a passionate mobile app developer!  
 
----
+***
 
 💻 **About Me:**  
 - 💞️ I’m a **Flutter developer** with experience in **Android** development.  
 - 📖 Currently, I’m self-learning **iOS** development to expand my skillset.  
 - 📫 Feel free to reach out to me on **[LinkedIn](https://www.linkedin.com)**.  
 
----
+***
 
 🌟 **Languages and Tools I Use:**  
 
@@ -26,7 +26,7 @@ I’m **Tingmei Huang**, a passionate mobile app developer!
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 </div>
 
----
+
 
 
 <!---
